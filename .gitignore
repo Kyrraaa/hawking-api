@@ -1,0 +1,9 @@
+# Ignorer les dépendances
+./node_modules/
+./build/
+
+# Ignorer fichiers MacOS
+**/.DS_Store
+
+# Ignorer les informations de connexions
+.env
